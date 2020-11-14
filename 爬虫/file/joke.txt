@@ -1,0 +1,358 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="wb:webmaster" content="cb81e216cbe9a3b9" />
+<meta name="keywords" content="搞笑图片"/>
+<meta name="description" content="生存都是同样的,就像死亡游戏一样,过关的人生存,而失败的人则淘汰出局.风雨里我们同在,屌丝也有逆天的时候,即使跌到一百次,也要一百次地站起来,我们共同进步,见证奇迹的发生!"/>
+<title>第10页-30date</title>
+<link href='/static/css/style_web.css?v=10042' media="screen, projection" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<a name="top"></a>
+<div class="head">
+<div class="content-block">
+<div class="logo"><a id="home" href="/">糗百成人版|糗事百科成人版成年手机版主页-各种丑事福利和搞笑图片</a></div>
+<div class="userbar"><script>document.write("<script src='/e/member/login/loginjs.php?rnd="+Math.random()+"'></s"+"cript>")</script></div>
+</div>
+</div>
+<div class="menu-bar clearfix">
+<div class="content-block">
+<div class="menu">
+<ul>
+<li class="sub menuout" onMouseOver="this.className='menuover'" onMouseOut="this.className='menuout'">
+<a  href="/remen/" id="hot" class="submenutitle">热门</a>
+<a href="/7tian/" class="submenu">7天内</a>
+<a href="/30date/" class="submenu">30天内</a>
+</li>
+<li class="sub menuout" onMouseOver="this.className='menuover'" onMouseOut="this.className='menuout'">
+<a  href="/retu/" id="imgrank" class="submenutitle">热图</a>
+<a href="/pic/" class="submenu">趣图</a>
+</li>
+<li class="menuout"><a id="late" href="/zuixin/">最新</a></li>
+
+
+<li class="menuout"><a href="javascript:login_go('/inspect')">审贴</a></li>
+<li class="menuout"><a id="add" href="/add/">投稿</a></li>
+</ul>
+</div>
+<div class="search">
+
+<form name="f1" action="/e/search/index.php" method="post"  target="_blank">
+<input name="keyboard" maxlength="100" class="searchinput" placeholder="找">
+<input type="submit" value="搜索" class="searchbutton">
+<input type="hidden" name="show" value="username,content,keywords" /><input name="area" type="hidden" value="default" /><input type="hidden" name="sortby" value="related" /><input type="hidden" name="getvar" value="/" />
+</form>
+</div>
+</div>
+</div>
+<div class="main">
+<div class="content-block">
+
+<div class="col1">
+
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204016"><div class="detail"><a href="/nr/6/204016l0.html" target="_blank">李汉皱了皱眉头，空间泉水泡着草种</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    李汉皱了皱眉头，空间泉水泡着草种比一般草种要好，可只是相对来说，如是没有空间泉水配合，能强多少就不清楚李汉没说泉水，只是草种问题，珍妮弗和灵娜听了以后，心里舒了口气“汉，这样草种已经十分不错了，即使草种没问题我这边开始收购四周荒芜农牧场了”    李汉点了点头，如不是手里没钱，李汉有心打算收购一些荒芜价格便宜农牧场或是荒野林，改造一下出售，想来赚些钱送走两人，李汉微微摇头，白松露和啤酒的事足够自己忙的再有珍妮花牧场深耕和拓荒事汉克农场牛羊冬天草料和饲料问题，还有马场，幸好刘明不急，再等些天，饲料再贵些，想来夸特价格会稍稍低一些</div><div id="qiushi_counts_204016" class="bar"><ul><li id="vote-up-204016" class="up"><a href="javascript:vote2(204016,1)" id="up-204016" title="0个顶">0</a></li><li id="vote-dn-204016" class="down"><a href="javascript:vote2(204016,-1)" id="dn-204016" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204016&classid=6&page=1" id="c-204016" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204017"><div class="detail"><a href="/nr/6/204017l0.html" target="_blank">幸好这些事有杰姆和休顿道尔斯打理</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    幸好这些事有杰姆和休顿道尔斯打理，牛棚那边萨拉和黛娜，噜噜干的也不错“月底要加奖金了”李汉收拾果盘，对跟在自己屁股后边缠着自己做南瓜舟的小嘟嘟，李汉有些无奈“爸爸，做嘛，做嘛嘟嘟赢钱请奶奶和姑姑，爸爸，宝宝姐姐”    李汉果盘端到厨房，嘟嘟搬着椅子跟着，爬上帮爸爸洗果盘，李汉这边整理好果盘，打算去收拾院子，小嘟嘟跟屁虫似得蹬蹬跟着帮忙收拾李汉干什么，嘟嘟跟着干什么，不时用期盼眼神看着李汉，时不时装着小可怜样子</div><div id="qiushi_counts_204017" class="bar"><ul><li id="vote-up-204017" class="up"><a href="javascript:vote2(204017,1)" id="up-204017" title="0个顶">0</a></li><li id="vote-dn-204017" class="down"><a href="javascript:vote2(204017,-1)" id="dn-204017" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204017&classid=6&page=1" id="c-204017" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204018"><div class="detail"><a href="/nr/6/204018l0.html" target="_blank">“大南瓜好重”    李汉一个个</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    “大南瓜好重”    李汉一个个南瓜摆放到架子上，画了将近一百个南瓜了，回头看着抱着二三十斤大南瓜的嘟嘟“真是拿你小鬼头没办法，给爸爸吧”李汉接过大南瓜放到架子上转身去院子边工具给收拾放好“这里不是你能弄的，去和宝宝姐姐，玛丽亚妹妹玩去吧”</div><div id="qiushi_counts_204018" class="bar"><ul><li id="vote-up-204018" class="up"><a href="javascript:vote2(204018,1)" id="up-204018" title="0个顶">0</a></li><li id="vote-dn-204018" class="down"><a href="javascript:vote2(204018,-1)" id="dn-204018" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204018&classid=6&page=1" id="c-204018" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204019"><div class="detail"><a href="/nr/6/204019l0.html" target="_blank">嘟嘟嘟起小嘴“爸爸都忘记了，玛丽</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    嘟嘟嘟起小嘴“爸爸都忘记了，玛丽亚妹妹都去找特尔尼阿姨接回家了宝宝姐姐和姑姑去找奶奶了”“知道，那你去坐一会，乖乖，爸爸要干活”    李汉工具收拾整理好，院子打扫的垃圾提到小农场出口的大垃圾箱子里，嘟嘟紧跟着爸爸，手里提着粉色小垃圾袋“这是爸爸刚刚换上的”“可是，可是都有垃圾了”嘟嘟打开，果然有几团纸，李汉随后接过纸打开，一个个大猪头李汉一乐，敲了一下嘟嘟小脑袋“这是画的爸爸吗？”</div><div id="qiushi_counts_204019" class="bar"><ul><li id="vote-up-204019" class="up"><a href="javascript:vote2(204019,1)" id="up-204019" title="0个顶">0</a></li><li id="vote-dn-204019" class="down"><a href="javascript:vote2(204019,-1)" id="dn-204019" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204019&classid=6&page=1" id="c-204019" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204020"><div class="detail"><a href="/nr/6/204020l0.html" target="_blank">嘟嘟撅着小嘴捂着小脑袋，爸爸每次</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    嘟嘟撅着小嘴捂着小脑袋，爸爸每次都说不敲嘟嘟头的，可是还敲呢“垃圾袋拿回去，猪头爸爸收起来了”“嗯”父女俩人牵着手，回到小楼，李汉鸡汤罐子洗刷放好，配制好明天用的药草包，时间不早了估计老妈和老姐回来，天差不多要黑了，李汉笑着蹲下来，摸了摸撅着小嘴生闷气小家伙“嘟嘟晚上咱们吃什么，吃虾米好不好，说啊”说着李汉挠了挠嘟嘟痒痒肉，嘟嘟痒的咯咯笑着扑进李汉怀里“爸爸”    李汉笑着抹平嘟嘟撅着小嘴“乖了，不生气了，爸爸答应你，有时间就帮嘟嘟做南瓜舟”“嗯，爸爸不要忘掉哦”“知道了”“拉钩”“拉钩”</div><div id="qiushi_counts_204020" class="bar"><ul><li id="vote-up-204020" class="up"><a href="javascript:vote2(204020,1)" id="up-204020" title="0个顶">0</a></li><li id="vote-dn-204020" class="down"><a href="javascript:vote2(204020,-1)" id="dn-204020" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204020&classid=6&page=1" id="c-204020" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204021"><div class="detail"><a href="/nr/6/204021l0.html" target="_blank">嘟嘟很是认真给爸爸印好印章“嗯，</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    嘟嘟很是认真给爸爸印好印章“嗯，不许骗人”“不骗人，好了，走吧，我们去捉鱼去，回来给奶奶和姑姑，姐姐做饭”“嗯，嘟嘟拿水桶”    “好，你拿”这个小家伙，李汉牵着嘟嘟，嘟嘟提着小水桶，身后跟着白狼，小米莉跑来跑去撒欢，小小白和小野猪，嬉闹在草地玩耍见着李汉和嘟嘟紧跟跑了过来</div><div id="qiushi_counts_204021" class="bar"><ul><li id="vote-up-204021" class="up"><a href="javascript:vote2(204021,1)" id="up-204021" title="0个顶">0</a></li><li id="vote-dn-204021" class="down"><a href="javascript:vote2(204021,-1)" id="dn-204021" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204021&classid=6&page=1" id="c-204021" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204022"><div class="detail"><a href="/nr/6/204022l0.html" target="_blank">不远围栏草场里，乔治娜正啃着萝卜</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    不远围栏草场里，乔治娜正啃着萝卜靠着围栏上，不时第一根萝卜给闪电，小红枣只能吃点乔治娜啃不掉萝卜屁股可怜兮兮，李汉和嘟嘟走过来，小红枣立马跑了过来“小红枣”    “汉，去捉鱼吗？”乔治娜医生牛仔，头绑起来，露出白皙的脖颈“捉些鱼做晚饭，这么晚还没回去”“再过一会，陪闪电玩一会”</div><div id="qiushi_counts_204022" class="bar"><ul><li id="vote-up-204022" class="up"><a href="javascript:vote2(204022,1)" id="up-204022" title="0个顶">0</a></li><li id="vote-dn-204022" class="down"><a href="javascript:vote2(204022,-1)" id="dn-204022" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204022&classid=6&page=1" id="c-204022" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204023"><div class="detail"><a href="/nr/6/204023l0.html" target="_blank">“需要什么告诉我，我去添置”“马</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    “需要什么告诉我，我去添置”“马场值班室里东西已经堆的放不下了，对了再过几天，我要回纽约一趟可能要过些天再过来，汉帮我照顾闪电好吗？”    李汉伸手想要摸摸闪电，这家伙竟然一点面子不给“没问退，有嘟嘟在，闪电一定会过的不错的”乔治娜笑了笑摸了摸闪电，李汉哼了一声，这家伙竟然不给自己面子，过几天再收拾你“嘟嘟，玩好了，我们走了”</div><div id="qiushi_counts_204023" class="bar"><ul><li id="vote-up-204023" class="up"><a href="javascript:vote2(204023,1)" id="up-204023" title="0个顶">0</a></li><li id="vote-dn-204023" class="down"><a href="javascript:vote2(204023,-1)" id="dn-204023" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204023&classid=6&page=1" id="c-204023" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204024"><div class="detail"><a href="/nr/6/204024l0.html" target="_blank">嘟嘟直接钻了过去，一会和小红枣玩</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    嘟嘟直接钻了过去，一会和小红枣玩，一会和闪电玩，一会跑去找大白和小白玩“嗯，乔治娜阿姨再见”“再见，pandora”乔治娜看章着牵着手走远父女俩，脸上露出一丝怀念    李汉牵着嘟嘟的小手，小家伙一路都在说做南瓜舟的事，大有爸爸不说，嘟嘟不停说的气势“嘟嘟，帮爸爸拿着网兜”李汉来到池塘边，水面下降了一些“嗯”</div><div id="qiushi_counts_204024" class="bar"><ul><li id="vote-up-204024" class="up"><a href="javascript:vote2(204024,1)" id="up-204024" title="0个顶">0</a></li><li id="vote-dn-204024" class="down"><a href="javascript:vote2(204024,-1)" id="dn-204024" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204024&classid=6&page=1" id="c-204024" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204025"><div class="detail"><a href="/nr/6/204025l0.html" target="_blank">李汉沿着码头吓到水里，接过嘟嘟网</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    李汉沿着码头吓到水里，接过嘟嘟网兜，舀了几下两次都空的，只有几只小虾米，嘟嘟瘪起小嘴“爸爸都没有鱼了”“不可能啊，池塘鱼挺多，前一阵我还看了呢”    李汉对着嘟嘟说道“嘟嘟你别动，爸爸再试试”李汉来回试了几次，还是没有“奇怪了，难道小狐狸鱼都给偷吃”“小狐狸肚子都好小吃小鱼”</div><div id="qiushi_counts_204025" class="bar"><ul><li id="vote-up-204025" class="up"><a href="javascript:vote2(204025,1)" id="up-204025" title="0个顶">0</a></li><li id="vote-dn-204025" class="down"><a href="javascript:vote2(204025,-1)" id="dn-204025" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204025&classid=6&page=1" id="c-204025" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204026"><div class="detail"><a href="/nr/6/204026l0.html" target="_blank">这倒是，池塘挺大，鱼虾不少，几只</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    这倒是，池塘挺大，鱼虾不少，几只小狐狸可吃不了“嘟嘟帮爸爸看着，爸爸进空间里捉几条鱼”“嗯”李汉打开空间，进入空间用网兜舀了一条大头鱼，一条鳟鱼，两条鲫鱼出来“还真奇怪，池塘鱼都哪里去了”李汉突然顿了一下，来到池塘一角，对着嘟嘟招了招手“嘟嘟，这是什么？”    嘟嘟眨巴眨巴大眼睛，哇的捂着嘴，用力摇头“不知道”李汉一乐，捏了捏嘟嘟肉肉的小脸“小鬼头，是不是大灰熊”嘟嘟低着头，嘟嘟嘴，愣是没说话</div><div id="qiushi_counts_204026" class="bar"><ul><li id="vote-up-204026" class="up"><a href="javascript:vote2(204026,1)" id="up-204026" title="0个顶">0</a></li><li id="vote-dn-204026" class="down"><a href="javascript:vote2(204026,-1)" id="dn-204026" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204026&classid=6&page=1" id="c-204026" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204027"><div class="detail"><a href="/nr/6/204027l0.html" target="_blank">这个大家伙，还说这些天挺老实呢，</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    这个大家伙，还说这些天挺老实呢，原来找打池塘主意，这么多鱼虾可不是一次能吃掉了“走吧”“爸爸，大黑黑肚子饿的”嘟嘟拉着李汉手摇了摇    李汉没打算惩罚大灰熊，这家伙至少没跑进菜园糟蹋，池塘鱼吃了就吃了吧，反正农场这样池塘多着，还有这么多湖泊，放养不少空间里鱼苗，如今想来鱼虾不少，平常吃不掉，养只大灰熊想来一个湖泊已经足够了“那爸爸不打大黑黑屁股吗？”“不打了”“嘟嘟也不打吗？”</div><div id="qiushi_counts_204027" class="bar"><ul><li id="vote-up-204027" class="up"><a href="javascript:vote2(204027,1)" id="up-204027" title="0个顶">0</a></li><li id="vote-dn-204027" class="down"><a href="javascript:vote2(204027,-1)" id="dn-204027" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204027&classid=6&page=1" id="c-204027" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204028"><div class="detail"><a href="/nr/6/204028l0.html" target="_blank">李汉笑了笑蹲下来，用大脑袋蹭了蹭</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    李汉笑了笑蹲下来，用大脑袋蹭了蹭嘟嘟小脑袋“爸爸不打大黑黑，也不打嘟嘟屁股”“真的吗,大黑黑都不乖偷掉爸爸的鱼”“没关系，爸爸养的鱼多，大黑黑天天吃都吃不完”李汉站起身，笑着牵着嘟嘟    “真的吗？”嘟嘟一脸崇拜样子，这让李汉有点小得意“当然了，爸爸有好多好多大大池塘，养很多很多鱼”李汉想着珍珠花牧场湖泊里养着的鱼，水虎鱼，这些霸王鱼，不行把大灰熊送哪里呆一阵，湖里这些霸王都给捞吃掉就更好了</div><div id="qiushi_counts_204028" class="bar"><ul><li id="vote-up-204028" class="up"><a href="javascript:vote2(204028,1)" id="up-204028" title="0个顶">0</a></li><li id="vote-dn-204028" class="down"><a href="javascript:vote2(204028,-1)" id="dn-204028" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204028&classid=6&page=1" id="c-204028" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204029"><div class="detail"><a href="/nr/6/204029l0.html" target="_blank">嘟嘟嗯嗯点头，爸爸好厉害，嘟嘟崇</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    嘟嘟嗯嗯点头，爸爸好厉害，嘟嘟崇拜眼神，令李汉走路都飘飘的“你们父女两去哪呢，小汉，你这什么姿势啊”院子里正在洗菜的李梅看着李汉古怪走路姿势忍不住笑道“姐，你不去是妈那了吗？”“是啊，刚刚回来，哦，这几条鱼还真不小啊”    嘟嘟挺了挺小胸脯说道“爸爸养的，很厉害哦”“是啊，厉害”李梅哈哈大笑，李汉有种捂脸冲动</div><div id="qiushi_counts_204029" class="bar"><ul><li id="vote-up-204029" class="up"><a href="javascript:vote2(204029,1)" id="up-204029" title="0个顶">0</a></li><li id="vote-dn-204029" class="down"><a href="javascript:vote2(204029,-1)" id="dn-204029" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204029&classid=6&page=1" id="c-204029" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="block untagged mb15 bs2" id="qiushi_tag_204030"><div class="detail"><a href="/nr/6/204030l0.html" target="_blank">ps：一张月票都没有，郁闷，只差</a></div><div class="author"><img src="/e/zxfcode/avatar.php?uid=8" alt="bettdss" />bettdss</div><div class="content" title="2018-11-30">    ps：一张月票都没有，郁闷，只差两张，有的书友求紧急支援，有钱的朋友打赏或是订阅出一张，只差这么点，太可惜了    ps:早起求月票    继续努力更新</div><div id="qiushi_counts_204030" class="bar"><ul><li id="vote-up-204030" class="up"><a href="javascript:vote2(204030,1)" id="up-204030" title="0个顶">0</a></li><li id="vote-dn-204030" class="down"><a href="javascript:vote2(204030,-1)" id="dn-204030" title="-0个拍">-0</a></li><li class="comment"><a href="/e/zxfcode/commentlist.php?id=204030&classid=6&page=1" id="c-204030" class="qiushi_comments" title="0条评论">0</a></li><li class="share"><a title="分享">分享</a></li></ul><div class="sharebox"><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=""><a class="bds_renren">人人网</a><a class="bds_qzone">QQ空间</a><a class="bds_tsina">新浪微博</a><a class="bds_tqq">腾讯微博</a><div class="arrow"></div></div></div></div></div>
+
+<div class="pagebar">
+<a class="prev" href="/30date/index_9.html"><span class="bti"></span></a>&nbsp;<a href="/30date/index_8.html">8</a>&nbsp;<a href="/30date/index_9.html">9</a>&nbsp;<span class="current">10</span>...
+</div>
+
+</div>
+
+
+<div class="col2">
+<div id="sidebar">
+<div class="mb10">
+
+</div>
+<div class="mb10">
+<script src="/d/js/acmsd/thea4.js" type="text/javascript"></script>
+</div>
+<div class="microblog clearfix bs2">
+<h3>收听</h3>
+<div class="content">
+<div class="qrcode">
+<span><img src=/static/css/img/2weima.png widht=86 height=86></span>用微信看传说
+</div>
+<div class="snslink">
+<a href="" target="_blank">QQ空间</a>
+<a href="" target="_blank">腾讯微博</a>
+<a href="" target="_blank">新浪微博</a>
+<a href="" target="_blank">RSS订阅</a>
+<a href="" target="_blank">新浪微刊</a>
+</div>
+</div>
+</div>
+<div class="tagsblock mb10 bs2">
+<h3>标签</h3>
+<div class="content">
+<a href="/tag/%E4%BC%A4%E4%B8%8D%E8%B5%B7" rel="tag">伤不起</a>
+<a href="/tag/JJ" rel="tag">JJ</a>
+<a href="/tag/%E6%A0%A1%E5%9B%AD" rel="tag">校园</a>
+<a href="/tag/%E5%9B%B4%E8%A7%82" rel="tag">围观</a>
+<a href="/tag/ML" rel="tag">ML</a>
+<a href="/tag/%E7%BE%8E%E5%A5%B3" rel="tag">美女</a>
+<a href="/tag/%E8%BD%A6%E9%9C%87" rel="tag">车震</a>
+<a href="/tag/%E7%81%AB%E6%98%9F%E6%96%87" rel="tag">火星文</a>
+<a href="/tag/%E9%9D%9E%E4%B8%BB%E6%B5%81" rel="tag">非主流</a>
+<a href="/tag/%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%B8%8D%E5%89%B2" rel="tag">一句话不割</a>
+<a href="/tag/%E7%A9%BF%E8%B6%8A" rel="tag">穿越</a>
+<a href="/tag/%E6%89%93%E9%A3%9E%E6%9C%BA" rel="tag">打飞机</a>
+<a href="/tag/%E7%A7%92%E6%9D%80" rel="tag">秒杀</a>
+<a href="/tag/%E8%90%9D%E8%8E%89" rel="tag">萝莉</a>
+<a href="/tag/hold" rel="tag">hold</a>
+<a href="/tag/%E8%85%90%E5%A5%B3" rel="tag">腐女</a>
+<a href="/tag/%E5%B0%8F%E4%B8%89" rel="tag">小三</a>
+<a href="/tag/TT" rel="tag">TT</a>
+<a href="/tag/%E5%BE%A1%E5%A7%90" rel="tag">御姐</a>
+<a href="/tag/mm" rel="tag">mm</a>
+<a href="/tag/%E4%BA%8C%E5%A5%B6" rel="tag">二奶</a>
+<a href="/tag/%E6%AD%A3%E5%A4%AA" rel="tag">正太</a>
+<a href="/tag/%E4%BD%A0%E6%87%82%E7%9A%84" rel="tag">你懂的</a>
+
+<a href="/tagcloud/1">更多...</a>
+</div>
+</div>
+<div class="mb10">
+
+</div>
+<div class="mb10">
+<script src="/d/js/acmsd/thea6.js" type="text/javascript"></script>
+</div>
+
+</div>
+</div>
+
+<div class="baidu-sponsor">
+<script src="/d/js/acmsd/thea3.js"></script>
+</div>
+</div>
+</div>
+<div class="foot ptb10 tc">
+<div id='div-gpt-ad-1373599931541-0' class='w960 mb5'>
+<script src='/d/js/acmsd/thea2.js'></script>
+</div>
+<div class="w960 ptb5 fclb">
+<span class="ablink">
+
+糗事百科成人版成年
+</span>
+糗百 成人版
+</div>
+
+<span class="ext-link"></span>
+</div>
+<div class="signin-box" id="login-form">
+<div class="signin-close">
+<a class="close">X</a>
+</div>
+<div class="signin-title">
+<h1>登录</h1>
+</div>
+<div class="signin-error" id="signin-error">
+提示信息
+</div>
+<div class="signin-form">
+<form method="post" action="/e/member/doaction.php">
+ <input type=hidden name=ecmsfrom value="">
+    <input type=hidden name=enews value=login>
+	<input name="tobind" type="hidden" id="tobind" value="0">
+
+<input type="text" class="ipt-gray" name="username" placeholder="用户名">
+<input type="password" class="ipt-gray" name="password" placeholder="密码">
+<input type="checkbox" id="remember_me" name="remember_me" checked="" value="checked" style="display:none">
+<button type="submit" class="btn-green" >登录</button>
+</form>
+</div>
+<div class="signin-account">
+没有帐号?也可用QQ登录：
+<span class="signin-icon-qq"></span>
+<a  href="javascript:void(0)" onclick='qzonelogin()'  target="_self"  >腾讯QQ</a>
+<span class="signin-icon-weibo"></span>
+<a href="javascript:void(0)" onclick='wblogin()' >新浪微博</a>
+</div>
+<div class="signin-foot">
+<a href="/e/member/GetPassword/" onclick="_hmt.push(['_trackEvent', 'login', 'click', 'fetchpass'])">找回密码</a>
+<a href="/e/member/register/index.php?tobind=0&groupid=1" onclick="_hmt.push(['_trackEvent', 'login', 'click', 'signup'])">注册</a>
+</div>
+</div>
+<script src="/static/js/quicklogin.js"></script>
+
+<div id="suggest-form">
+<a href="#" class="close"><div class="bti"></div></a>
+<div class="ie6-fix"></div>
+<div class="form-block">
+<h1>请帮助我们进步</h1>
+<form action="/new4/suggest" method="post">
+<textarea type="text" id="suggest-text" name="suggestion" tabindex="1"></textarea>
+<button type="submit">提交</button>
+</form>
+</div>
+</div>
+<div id="report-form">
+<a href="#" class="close" id="close-form"><div class="bti"></div></a>
+<div class="ie6-fix"></div>
+<div class="form-block">
+<form action="/e/enews/" method="post">
+<strong>请选择理由</strong>
+<input type="hidden" name="comment_id" value="" />
+<input name='enews' type='hidden' value='AddFeedback'>
+<input name='bid' type='hidden' value='2'>
+<input name='title' type='hidden' size="42" value="评论举报">
+<label for='abusive'><input id='abusive' type="radio" name="reason" value="abusive"/> 辱骂</label>
+<label for='porn'><input id='porn' type="radio" name="reason" value="porn"/> 色情</label>
+<label for='spam'><input id='spam' type="radio" name="reason" value="spam"/> 广告</label>
+<label for='waste'><input id='waste' type="radio" name="reason" value="waste"/> 浪费楼层</label>
+<button type="submit">提交</button>
+</form>
+</div>
+</div>
+
+<script src="/static/js/application.js" type="text/javascript"></script>
+<script>
+$(floorLink);
+</script>
+
+<!-- BackTop -->
+<div id="bottom-nav" class="backtop sl-fixed sl-fixed-bottom sl-fixed-right">
+<a class="bs2"><span class="icon-back"></span></a>
+</div>
+
+<script type="text/javascript">
+var bottomNav = {
+bind: function(trigger,dom) {
+$(trigger).click(function(){
+dom.scrollTop(0);
+});
+},
+scroll: function(trigger,dom) {
+dom.scroll(function () {
+var firstScreenHeight = 600;
+var bottomNav = $(trigger);
+if (dom.scrollTop() >= 600) {
+bottomNav.fadeIn();
+} else {
+bottomNav.fadeOut();
+}
+});
+},
+init: function() {
+this.bind('#bottom-nav',$(window));
+this.scroll('#bottom-nav',$(window));
+}
+}
+bottomNav.init();
+</script>
+<!-- module-scroll -->
+<script>
+$(document).ready(function(){
+var activeFloatAd = function(dom,type) {
+var type = type ? type : 'top';
+var ad = scrollMonitor.create(dom);
+var footer = scrollMonitor.create($('.foot'),{
+top: (type == 'top') ? parseInt(dom.css('height')) : 0
+});
+var fixedClass = 'fixed-ads sl-fixed sl-fixed-' + type + ' fixed-ads-offset-' + type;
+var absoluteClass = 'absolute-ads';
+ad.lock();
+if (type == 'top') {
+ad.stateChange(function() {
+if (dom.hasClass(absoluteClass)) {
+dom.removeClass(absoluteClass);
+};
+dom.toggleClass(fixedClass, this.isAboveViewport);
+});
+ad.exitViewport(function(){
+if (ad.isAboveViewport && dom.hasClass('fixed-ads') == false) {
+dom.addClass(fixedClass);
+}
+})
+footer.fullyEnterViewport(function(){
+if (this.isAboveViewport) {
+dom.removeClass(fixedClass).addClass(absoluteClass);
+}
+});
+footer.partiallyExitViewport(function(){
+if (this.isBelowViewport) {
+dom.removeClass(absoluteClass).addClass(fixedClass)
+}
+});
+} else {
+ad.stateChange(function() {
+if (!dom.hasClass(absoluteClass)) {
+dom.toggleClass(fixedClass, !this.isFullyInViewport && this.isAboveViewport);
+}
+});
+ad.partiallyExitViewport(function(){
+if (ad.isAboveViewport && !ad.isFullyInViewport && dom.hasClass('fixed-ads') == false && !dom.hasClass(absoluteClass)) {
+dom.addClass(fixedClass);
+}
+})
+footer.enterViewport(function(){
+dom.removeClass(fixedClass).addClass(absoluteClass);
+});
+footer.exitViewport(function(){
+if (this.isBelowViewport) {
+dom.removeClass(absoluteClass).addClass(fixedClass)
+}
+});
+}
+return {
+ad: ad,
+footer: footer
+};
+}
+setTimeout(function(){
+var left = $('.main .content-block .col1');
+var sidebar = $('#sidebar');
+if (left.height() > sidebar.height()) {
+window._floatAd = activeFloatAd($('#sidebar'),'bottom');
+}
+},500);
+});
+</script>
+
+<!-- Baidu Share -->
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=14315" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config = {
+'snsKey':{'tsina':'63372306','tqq':'100251437','renren':'f74f74797e644ee49e35f407092f6ec5'} //'自定义分享到平台的appkey'
+};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<script src="/static/js/cmread.js?v=fe2cc" type="text/javascript"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+README.md
+setup.py
+compact_bilinear_pooling/__init__.py
+pytorch_compact_bilinear_pooling.egg-info/PKG-INFO
+pytorch_compact_bilinear_pooling.egg-info/SOURCES.txt
+pytorch_compact_bilinear_pooling.egg-info/dependency_links.txt
+pytorch_compact_bilinear_pooling.egg-info/top_level.txt

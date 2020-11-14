@@ -1,0 +1,44 @@
+Not Only SQL 非关系型数据库
+优点：
+1、高扩展性
+2、分布式计算
+3、低成本
+4、架构的灵活性、半结构化数据
+5、没有复杂的关系
+6、没有标准化
+7、有限的查询功能
+8、最终一致不是直观的程序
+
+# 列存储
+特点：按列存储数据的。最大特点是方便存储结构化和半结构化的数据，方便做数据的压缩，对针对某一列或几列的查询有非常大的IO优势
+1、Hbase
+2、Cassandra
+3、Hypertable
+
+
+# 文档存储
+特点：一般类似Json的格式存储，存储的内容是文档类型的。这样也就有机会对某些字段建立索引，实现关系数据库的某些功能
+1、MongoDB
+2、CouchDB
+
+# key-value存储
+特点：可以通过key快速查询到value，一般来说存储不管value的格式，照单全收
+1、Tokyo Cabinet/Tyrant
+2、Berkeley DB
+3、MemcacheDB
+4、Redis
+
+# 图存储
+特点:图像关系的最佳存储
+1、Neo4J
+2、FlockDB
+
+# 对象存储
+特点：类似面向对象语言的语法操作数据库，通过对象方式存取数据
+1、db4o
+2、Versant
+
+# xml数据库
+特点:搞笑的XML数据，并支持XML的内部查询语法，比如XQuery，Xpath
+1、Berkeley DB XML
+2、BaseX

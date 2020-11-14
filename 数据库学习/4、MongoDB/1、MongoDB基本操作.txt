@@ -1,0 +1,74 @@
+一、操作MongoDB数据库
+    1、创建数据库
+        语法：use 数据库名
+        说明：如果数据库不存在则创建数据库，否则切换到指定的数据库
+        注意：如果刚刚创建的数据库不在列表内，如果要显示他，我们需要向刚刚创建的数据库中插入一些数据(  db.student.insert({name:"tom",age:18,gender:1,address:"北京",isDelete:0})  )
+    2、删除数据库
+        前提：使用当前数据库
+        语法：db.dropDatabase()
+    3、查看所有数据库
+        语法：show dbs
+
+    4、查看当前正在使用的数据库
+        语法：db或者db.getName()
+    5、断开连接
+        语法：exit
+    6、查看命令
+        语法：help
+二、集合操作
+    1、查看当前数据库下有哪些集合
+        语法：show collections
+    2、创建集合
+        a、
+            语法：db.createCollection("集合名")
+        b、
+            语法：db.集合名.insert(document)
+        区别：前者创建一个空集合，后者创建一个空集合并添加一个文档
+    3、删除集合
+        语法：db.集合名.drop()
+三、文档操作
+    1、插入文档
+        a、使用insert()方法插入文档
+            语法：db.集合名.insert(document)
+            插入一个：db.student.insert({name:"tom",age:18,gender:1,address:"北京",isDelete:0})
+            语法：db.集合名.insert([document1,document2,...,documentN])
+            插入多个：db.student.insert([{name:"xiao",age:18,gender:1,address:"北京",isDelete:0},{name:"chao",age:18,gender:1,address:"北京",isDelete:0}])
+        b、使用save()方法插入文档
+            语法：db.集合名.save(document)
+            说明：如果不知道_id字段，sav()方法类似与insert()方法。如果指定_id字段，则回更新_id字段的数据
+            实例：db.student.save({_id:ObjectId("5e72f29734a69a50532a8b85"),name:"tom",age:1,gender:1,address:"北京",isDelete:0})
+    2、文档跟新
+        a、update()方法用于更新已存在的文档
+        语法：
+            db.集合名.updata(
+                     <query>,
+                     <update>,
+                     {
+                        upset:<boolean>,
+                        multi:<boolean>,
+                     writeConcern:<document>
+                     })
+        参数说明：
+            query:update的查询条件，类似与sql里的update语句内的where后面的内容
+            update：
+            updata的对象和一些更新的操作符($set,$inc)等，$set直接更新，$including的原有基础上累加后更新
+            upset:可选，如果不存在update的记录，是否当新数据插入，true为插入，False为不插入，默认为false
+            multi：可选，默认是false，只更新找到的第一条记录，如果这个参数为true，就按照条件查找出来的数据全部更新
+            writeConcern:可选，抛出异常的级别
+        需求：将lilei的年龄更新位25
+            db.student.update({name:"lilei"},{$set:{age:25}})
+            db.student.update({name:"lilei"},{$inc:{age:25}}) 累加
+            db.student.update({name:"poi"},{$set:{age:10}},{multi:true})
+
+        b、save()方法通过传入的文档替换已有的文档
+        语法：
+            db.集合名.save(
+                          document,
+                          {
+                          writeConcern:<document>
+                          })
+    3、文档删除
+
+    4、文档查询
+
+    5、查询条件

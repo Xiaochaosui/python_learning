@@ -1,0 +1,69 @@
+python 复习01
+1、海龟
+	from turtle import *
+
+2、随机模块
+	import random
+3、画图
+	前进 forward(100)
+	后退 backward(100)
+	左转右转 left(90) right(90)
+	抬笔 penup()
+	落笔 pendown()
+	去到某个位置 goto(x,y)
+	设置速度 speed(0) speed(100)
+	颜色 color("red")
+4、循环
+	for i in range(0,5): 前包后不包
+		执行的动作
+	for i in range(0,5):
+		for j in range(0,3):
+			执行的动作1
+		执行动作2
+	执行动作3
+5、if---elif---else
+	条件判断
+		if 条件1 and 条件2：
+			执行动作1
+		elif 条件3 or 条件4:
+			执行动作2
+		.....
+		else:
+			执行动作n
+
+6、函数
+	定义函数
+	def 函数名字(参数1,参数2....):
+		函数体(执行动作)
+	调用函数
+	函数名字(看参数意义)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    暑假愉快！
+
+
+
+
+
+
+
+
+
+
+                    
+
+

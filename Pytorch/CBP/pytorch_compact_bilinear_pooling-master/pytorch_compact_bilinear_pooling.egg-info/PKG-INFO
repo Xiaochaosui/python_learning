@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pytorch-compact-bilinear-pooling
+Version: 0.4.0
+Summary: A PyTorch implementation of Compact Bilinear Pooling
+Home-page: https://github.com/gdlg/pytorch_compact_bilinear_pooling
+Author: Gregoire Payen de La Garanderie
+Author-email: gdlg@hochet.info
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

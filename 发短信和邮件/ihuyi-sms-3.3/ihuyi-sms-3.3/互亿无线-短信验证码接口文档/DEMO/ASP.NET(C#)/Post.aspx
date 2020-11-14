@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#"  Buffer = "true" EnableSessionState ="false"  EnableViewState="false" AutoEventWireup="true" CodeFile="Post.aspx.cs" Inherits="Post" %>

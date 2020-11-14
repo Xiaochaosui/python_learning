@@ -1,0 +1,59 @@
+python复习
+1、导入海龟
+	from turtle import *
+2、画图
+	移动 forward(100) backward(100)
+	转角度 right(90) left(90)
+	抬笔 penup() pendown() goto(x,y)
+	设置颜色 color("red")
+	笔的粗细 pensize(5)
+	设置画图的速度 speed(0) 最快的
+	circle(50,50,10)
+3、循环
+	for i in range(0,5):
+		表示重复执行的动作
+	for i in range(0,10,+2):
+		表示重复执行的动作
+	for j in range(0,5):
+		for i in range(0,5):
+			重复执行的动作
+4、条件判断
+	if---elif---else
+
+	if 条件1 and 条件2:
+		执行的动作1
+	elif 条件3 or 条件4:
+		执行的动作2
+	......
+	else:
+		执行的动作n
+5、函数
+		定义函数
+			def 函数名字(参数1,参数2........):
+				执行的是函数功能的语句
+				return s  
+			有返回值的函数
+		调用函数
+			函数名字(对应的值)
+		分类
+			无参无返回值函数
+			有参无返回值函数
+			有参有返回值函数
+			无参有返回值函数
+6、列表 list
+	增
+		添加功能  list1.append(20)
+	删
+		删除功能  del list1[2]
+	改
+		修改功能  list1[2] = 10
+	查(取数)
+		查询功能  list1[4]
+	len()
+		数数的  计算列表里的总个数
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+Metadata-Version: 1.2
+Name: world
+Version: 4.1.1
+Summary: "world -- top level domain code mappings"
+Home-page: https://pypi.python.org/pypi/world
+Author: Barry Warsaw
+Author-email: barry@python.org
+License: Apache Software Licence
+Description: ===================================================================
+        world -- Print mappings between country names and DNS country codes
+        ===================================================================
+        
+        This script takes a list of Internet top-level domain names and prints out
+        where in the world those domains originate from.  For example::
+        
+            $ world tz us
+            tz originates from Tanzania, United Republic of
+            us originates from United States of America (the)
+        
+        Reverse look ups are also supported::
+        
+            $ world -r united
+            Matches for "united":
+              ae: United Arab Emirates (the)
+              gb: United Kingdom of Great Britain and Northern Ireland (the)
+              tz: Tanzania, United Republic of
+              uk: United Kingdom (common practice)
+              um: United States Minor Outlying Islands (the)
+              us: United States of America (the)
+        
+        Only two-letter country codes are supported, since these are the only ones
+        that were freely available from the ISO_ 3166_ standard.  However, as of
+        2015-01-09, even these are no longer freely available in a machine readable
+        format.
+        
+        This script also knows about non-geographic, generic, USA-centric, historical,
+        common usage, and reserved top-level domains.
+        
+        
+        Project details
+        ===============
+        
+        * Project home: https://gitlab.com/warsaw/world
+        * Report bugs at: https://gitlab.com/warsaw/world/issues
+        * Code hosting: https://gitlab.com/warsaw/world.git
+        * Documentation: http://world.readthedocs.io/en/latest/
+        
+        
+        Author
+        ======
+        
+        ``world`` and ``worldlib`` is Copyright (C) 2013-2019 Barry Warsaw
+        <barry@python.org>
+        
+        Licensed under the terms of the GNU General Public License, version 3 or
+        later.  See the LICENSE.txt file for details.
+        
+        
+        .. _ISO: http://www.iso.org/iso/home.html
+        .. _3166: http://www.iso.org/iso/home/standards/country_codes/
+        
+Keywords: domain name system DNS
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: Name Service (DNS)
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities
+Requires-Python: >=3.4
