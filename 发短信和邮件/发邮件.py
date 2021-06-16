@@ -16,7 +16,7 @@ message = "xcs is a good man"
 # 转换成邮件文本
 msg = MIMEText(message)
 # 标题
-msg["Subject"] = "来自牛牛问候"
+msg["Subject"] = "xcs is a good man"
 # 邮件接收者
 msg["From"] = sender
 
