@@ -4,7 +4,7 @@ import re
 import ssl
 def imageCrawler(url,filePath):
     headrstr = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36"
-    htmlPath = os.path.join(os.getcwd(),"htmlStr.txt")
+    htmlPath = os.path.join(os.getcwd(),"htmlStr.html")
     req = urllib.request.Request(url)
     req.add_header("User-Agent",headrstr)
     context = ssl._create_unverified_context()
@@ -23,14 +23,17 @@ def imageCrawler(url,filePath):
     print(len(imageList))
     num = 0
     for con in imageList:
-        pat1 = r'source-data-lazy-img="//(.*?)"'
+        #print(con)
+        # http://img11.360buyimg.com/n1/jfs/t1/148534/18/14934/164250/5fb49cc3E83b66097/eb751745a28bebea.jpg
+        pat1 = r'data-lazy-img="//(.*?)"'
         re_image = re.compile(pat1,re.DOTALL)
         image = re_image.findall(con)
         #print(image[0])
         fileName = os.path.join(filePath,str(num)+".jpg")
         num += 1
         # 将图片下载到本地
-        urllib.request.urlretrieve("http://"+image[0],fileName)
+        if image:
+            urllib.request.urlretrieve("http://"+image[0],fileName)
         #print(image)
 
 

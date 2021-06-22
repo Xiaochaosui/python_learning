@@ -1,7 +1,7 @@
 import socket
 
-ip_dest = '192.168.1.102'
-port_dest = 8081
+ip_dest = '49.235.72.162'
+port_dest = 20201
 udpClient = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 
 #udpClient.bind((ip_dest,port_dest))

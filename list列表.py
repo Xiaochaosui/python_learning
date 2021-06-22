@@ -72,7 +72,7 @@ print(list9.pop(-1))
 # remove(x) 移除列表中的第一个个元素x 只能移除一个
 list10 = [1,2,3,4,5,4,2,4,5]
 list10.remove(4)
-print(list10)
+print("list10",list10)
 
 # clear() 清除列表所有数据
 list10.clear()
@@ -98,7 +98,7 @@ print(list13.count(3))
 # reverse() 列表倒序
 list14 = [1,2,3,4,5]
 list14.reverse()
-print(list14)
+print("reverse",list14)
 
 # sort() 升序
 list14.sort()

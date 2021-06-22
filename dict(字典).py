@@ -10,6 +10,7 @@ key的特性：
 '''
 
 dict1 = {"tom":60,"lilei":70}
+print(dict1.values())
 
 # 元素的访问
 # 获取：字典名[key]

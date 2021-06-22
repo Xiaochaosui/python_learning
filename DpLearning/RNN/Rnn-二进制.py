@@ -3,7 +3,7 @@ import copy, numpy as np
 
 # compute sigmoid nonlinearity
 def sigmoid(x):
-    output = 1 / (1 + np.exp(-x))
+    output = 1 / (1 +- np.exp(-x))
     return output
 
 

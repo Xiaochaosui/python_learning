@@ -42,6 +42,7 @@ images,labels = next(iter(data_loder_train))
 img = torchvision.utils.make_grid(images)
 img = img.numpy().transpose(1,2,0)
 
+
 std = [0.5,0.5,0.5]
 mean = [0.5,0.5,0.5]
 img = img*std+mean
@@ -123,7 +124,9 @@ for epoch in range(epoch_n):
         loss = cost(outputs,y_train)
             # 后向传播
         loss.backward()
-        optimzer.step()
+        optimzer.step() # 更新网络参数
+        scheduler = '' # 设置学习率的调整方式
+        scheduler.step() # 更新学习率
         if (i + 1) % 10 == 0:
             print('Epoch [%d/%d], Iter [%d/%d] Loss: %.4f'
                   % (epoch + 1, epoch_n, i + 1, len(data_train) // batch_size, loss.item()))

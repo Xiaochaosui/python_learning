@@ -1,0 +1,33 @@
+# Model Configuration
+model:
+    arch: fcn8s
+
+# Data Configuration
+data:
+    dataset: camvid
+    train_split: train
+    val_split: val
+    img_rows: 480
+    img_cols: 360
+    path: D:/DataSet/camvid
+
+# Training Configuration
+training:
+    train_iters: 120000
+    batch_size: 1
+    val_interval: 1000
+    n_workers: 2
+    print_interval: 50
+    optimizer:
+        name: 'sgd'
+        lr: 1.0e-10
+        weight_decay: 0.0005
+        momentum: 0.99
+    loss:
+        name: 'cross_entropy'
+        size_average: False
+    lr_schedule:
+        name: 'multi_step'
+        milestones: [40000,80000,120000]
+        gamma: 0.1
+    resume: fcn8s_camvid_best_model.pkl

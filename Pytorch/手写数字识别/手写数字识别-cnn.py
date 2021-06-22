@@ -68,7 +68,7 @@ if torch.cuda.is_available():
     cnn = cnn.cuda()
 
 # 选择损失函数和优化方法
-loss_func = nn.CrossEntropyLoss()
+loss_func = nn.CrossEntropyLoss() # 交叉熵
 optimizer = torch.optim.Adam(cnn.parameters(), lr=learning_rate)
 
 for epoch in range(num_epochs):
@@ -77,6 +77,7 @@ for epoch in range(num_epochs):
         labels = get_variable(labels)
 
         outputs = cnn(images)
+        #print("标签和结果的大小:",outputs.shape,labels.shape)
         loss = loss_func(outputs, labels)
         optimizer.zero_grad()
         loss.backward()
